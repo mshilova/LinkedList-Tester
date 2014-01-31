@@ -1,0 +1,9 @@
+Followed test-driven development
+
+List12Tester.java is testing the java.util.List<E> interface using 
+the JUnit Testing Framework.
+
+List12.java is a class that implements the java.util.List<E> interface.
+This implementation is using a singly-linked list with a head pointer 
+(i.e. a pointer, in the List object itself, to the first element of the list),
+but no tail pointer.
